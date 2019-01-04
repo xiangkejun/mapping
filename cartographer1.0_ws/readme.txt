@@ -7,3 +7,4 @@ roslaunch cartographer_ros demo_hokuyo_xx.launch
 rosrun map_server map_saver -f map/mymap
 
 
+roslaunch cartographer_ros demo_velodyne_2d.launch
